@@ -1,0 +1,2 @@
+tsc -> Compila o typescript e gera o javascript
+tsc --init -> Gera o tsconfig, arquivo de configuração do typescript
